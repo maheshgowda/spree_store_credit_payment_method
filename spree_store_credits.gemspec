@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version     = '3.0.7'
   s.summary     = 'Store credit as a payment method'
   s.description = 'Enables associating store credit to a user and using the store credit as a form of payment during checkout.'
-  s.required_ruby_version = '>= 2.1.0'
+  s.required_ruby_version = '>= 2.2.1'
 
   s.author    = 'Bonobos'
   s.email     = 'engineering@bonobos.com'
